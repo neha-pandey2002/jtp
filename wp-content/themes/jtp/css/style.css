@@ -1,0 +1,345 @@
+input[type="search"] {
+    -webkit-appearance: textfield;
+    padding-right: 2px;
+    width: 270px;
+    background-repeat: no-repeat;
+    background-image: url(images/search-icon.png);
+
+    background-position: 229px center;
+}
+
+.top-img {
+    background-image: url(../images/main-top.jpg);
+    height: 1000px!important;
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* bottom: -2px; */
+    /*margin-bottom: -228px;*/
+    z-index: -1;
+}
+span.Highlight {
+   
+    font-weight: 600;
+}
+.cnt-area {
+    font-size: 57px;
+    line-height: 99px;
+}
+.hding-over {
+    text-align: center;
+    /* border: 2px solid; */
+    background: #263923;
+    color: white;
+    font-size: 31px;
+    line-width: 14px;
+    word-spacing: 1%;
+    /* letter-spacing: 4px; */
+    padding: 4%;
+    /* padding-left: 10px; */
+    border-radius: 50px;
+}
+
+.cat {
+    margin-top: 42%;
+}
+.cnt-area {
+    font-size: 41px;
+    line-height: 99px;
+    background: #8080803d;
+    text-align: left;
+    padding-top: 16%;
+    padding-bottom: 7%;
+    color: #263923;
+}
+        
+ .child1 {
+    margin-top: 29%;
+}
+.special-area {
+    background: #b5ccba;
+    padding: 98px;
+}
+.parent1 img {
+    padding: 38px;
+    width: 100%;
+    height: auto;
+}
+li.lslide.active {
+    background: white;
+}
+.col-md-8.slider-light {
+    /* z-index: 1; */
+    /* margin: 51px; */
+    margin-right: 37px;
+    float: right;
+}
+
+h2.txt-hding {
+    float: right;
+    /* margin-left: 25px; */
+    letter-spacing: 5px;
+    word-spacing: 31px;
+    font-weight: 800;
+}
+.cnt-area-special {
+    position: absolute;
+    /* margin: 10px; */
+    z-index: 1;
+    margin-left: 9%;
+}
+.slider-light {
+    /* z-index: 1; */
+    /* margin: 51px; */
+    margin-right: 37px;
+}
+.cnt-area-special h3, p.p-tg {
+    margin-left: 22%;
+}
+.product-1 img {
+    width: 100%;
+    border-radius: 50%;
+}
+.product-1 img {
+    width: 84%;
+    border-radius: 50%;
+    /* max-height: 800px; */
+    height: 769px;
+    max-height: 750px;
+    object-fit: cover;
+}
+
+.Products-Round {
+    margin-top: 8%;
+}
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    max-width: 1548px!important;
+}
+.cook-with-us {
+    background: #b5ccba;
+}
+.cook-img img {
+    border-radius: 50%;
+    padding-left: 32%;
+}
+.wpcp-carousel-section .wpcp-single-item img {
+    margin: 0 auto;
+    max-width: 100%;
+    box-shadow: none;
+    height: 406px;
+    object-fit: cover;
+}
+.email {
+    float: right;
+}
+h3.widget-title {
+    display: none;
+}
+.newsletter-area {
+    background: #b5ccba;
+    color: white;
+    text-align: center;
+}
+.textwidget {
+    display: flex;
+    /* padding: 10px; */
+}
+.site-info {
+    background: #98a296;
+    color:white!important;
+}
+.site-footer {
+    background-color: #98a295!important;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+}
+
+.site-footer .widget {
+    background: transparent;
+    color: black!important;
+    float: left;
+    margin-right: 20px;
+    width: 245px;
+}
+.site-footer .widget a {
+    background: transparent;
+    color: grey!important;
+    float: left;
+    margin-right: 20px;
+    width: 100%;
+    font-size: 38px;
+}
+.site-footer .sidebar-container {
+    background-color: white!important;
+    padding: 20px 0;
+    color: black;
+}
+.copy-area a{
+    color:white;
+}
+.site-footer .copy-area a{
+    color:white;
+}
+/*.a {
+    width: 14%;
+}*/
+i.fa.fa-instagram {
+    border: 4px solid;
+    border-radius: 50%;
+    padding: 16px;
+    font-size: 54px;
+    color: #808080;
+}
+
+i.fa.fa-facebook {
+    border: 4px solid;
+    border-radius: 50%;
+    padding: 16px;
+    font-size: 54px;
+    color: #808080;
+    padding-right: 25px;
+    padding-left: 25px;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    /* padding: 10px; */
+    margin-left: 22px;
+}
+.site-footer .sidebar-container {
+    background-color: #220e10;
+    padding: 20px 0;
+    height: 400px;
+}
+.row-copy{
+    background: #98a296;
+    padding: 58px;
+    text-align: center;
+    font-size: 23px;
+    color: white;
+}
+a.imprint {
+    color: white;
+}
+div#secondary {
+    padding-left: 18%;
+    /* font-size: 10px; */
+}
+.widget a, h1.foot-fa, h1.footer-address {
+    color: #a0a0a0!important;
+    font-size: 36px;
+    line-height: 5vh;
+    letter-spacing: .1vw;
+}
+h1.footer-address{
+
+}
+.nav-menu li a {
+    color: #263923;
+    display: block;
+    font-size: 27px;
+    line-height: 1;
+    padding: 15px 20px;
+    text-decoration: none;
+    font-weight: 600;
+}
+ul#primary-menu {
+    background: white;
+    border: white;
+}
+.navbar {
+     margin-top: 87px;
+}
+.navbar {
+    border: none!important;
+}
+
+
+.logo img {
+    margin-top: 29px;
+}
+.shop-onln {
+    background: #263923;
+    /* color: white; */
+    /* border: 10px; */
+    border-radius: 60px;
+    padding: 16px;
+    margin-top: 81px;
+    text-align: center;
+    /* width: 10px; */
+    /* width: 241px; */
+}
+.shop-onln a {
+    color: white;
+    font-size: 29px;
+}
+i.fa.fa-shopping-cart {
+    /* border: 1px solid; */
+    padding: 18px;
+    font-size: 42px;
+    margin-top: 78px;
+    border-radius: 50%;
+    background: #263923;
+    clear: white;
+    color: white;
+}
+h3.small-hding {
+    font-size: 31px;
+    font-weight: 600;
+}
+p.p-tg {
+    font-size: 27px;
+}
+
+.child1 p {
+    font-size: 16px;
+    margin-top: 45px;
+    text-align: cl;
+}
+.child1 a.lrn-more {
+    border: 3px solid #263923;
+    padding: 11px;
+    border-radius: 37px;
+    font-size: 23px;
+    padding-right: 30px;
+    padding-left: 30px;
+    color: #263923;
+}
+h1.heading-number {
+    color: #98a296;
+    font-size: 236px;
+    z-index: -1;
+}
+span.product-ttl {
+    font-size: 32px;
+    font-weight: 600;
+    color: #263923;
+}
+span.product-cnt {
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 40px;
+    color: #263923;
+}
+.product-1 a.lrn-more{
+ border: 3px solid #263923;
+    padding: 5px;
+    border-radius: 37px;
+    font-size: 23px;
+    padding-right: 30px;
+    padding-left: 30px;
+    color: #263923;   
+}
+img:hover {
+   
+    border-radius: 0px;
+}
